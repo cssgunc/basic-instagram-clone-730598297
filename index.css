@@ -1,1 +1,41 @@
+#title{
+    display: flex;
+    justify-content: center;
+}
 
+#footer{
+    display: flex; 
+    justify-content: space-between; 
+
+}
+
+#stats {
+    display: flex;
+    justify-content: center; 
+}
+
+#post1, #followers1, #following1 {
+    flex: 1;
+    text-align: center; 
+}
+
+
+#notation{
+    display: flex;
+    justify-content: center; 
+}
+
+#format {
+    display: flex; 
+    justify-content: space-between; 
+}
+
+#tabs{
+    display: flex; 
+    justify-content: space-between; 
+}
+
+#images {
+    display: flex; 
+    justify-content: space-between; 
+}
